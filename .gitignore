@@ -4,8 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-./api/node_modules
-./rtmpserver/node_modules
 # testing
 /coverage
 
