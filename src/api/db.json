@@ -10,6 +10,12 @@
       "description": "this a new stream",
       "userId": "111212876459741225460",
       "id": 4
+    },
+    {
+      "title": "new stream",
+      "description": "this is my new stream",
+      "userId": "111212876459741225460",
+      "id": 5
     }
   ]
 }
