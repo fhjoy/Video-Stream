@@ -19,7 +19,13 @@ class StreamingList extends React.Component {
             {' '}
             Edit{' '}
           </Link>
-          <button className="ui button negative"> Delete </button>
+          <Link
+            to={`/streaming/delete/${stream.id}`}
+            className="ui button negative"
+          >
+            {' '}
+            Delete{' '}
+          </Link>
         </div>
       );
     }
