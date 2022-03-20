@@ -8,3 +8,6 @@ https://reactstreamingvideos.netlify.app/
 
 ### npm start 
 1. stream 2. api 3. rtmpserver folders (three of them should run)
+
+### Made by
+An App using React, Redux, Redux Form, Router, Authentication, and REST-API
